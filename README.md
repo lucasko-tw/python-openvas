@@ -18,7 +18,7 @@ TARGET_IP = "127.0.0.1"
 3. Run Scan
 
 ```
-python app
+python app.py
 ```
 
 
