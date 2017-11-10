@@ -3,8 +3,6 @@
 
 1. Modify your OpenVAS's host ip , username, password
 ```
-
-```
 OPENVAS_HOST = "127.0.0.1"
 PORT = 9390
 USER = "admin"
